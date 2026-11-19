@@ -32,34 +32,34 @@ problem
 *Stakeholder  Needs and Concerns*
 
 Student Needs:
--view available appointment time.
--book appointments with staff.
--cancel or change appointments.
+- view available appointment time.
+- book appointments with staff.
+- cancel or change appointments.
 
 Student Concerns:
--double bookings.
--incorrect appointment information.
--difficulty using the system.
+- double bookings.
+- incorrect appointment information.
+- difficulty using the system.
 
 Staff Needs:
--view their appointment schedules.
--manage availble time slots.
--see student appointment details.
+- view their appointment schedules.
+- manage availble time slots.
+- see student appointment details.
 
 Staff Concerns:
--overlapping appointment.
--incorrect booking information.
--too many appointments in one day.
+- overlapping appointment.
+- incorrect booking information.
+- too many appointments in one day.
 
 
 goals
--Allow students to view available and occupied time slots.
--Allow students to book appointments.
--Prevent double bookings.
--Show staff availability.
--Allow staff to manage appointments.
--Make the system easy to use.
--Identify who is responsible for maintaining the system.
+- Allow students to view available and occupied time slots.
+- Allow students to book appointments.
+- Prevent double bookings.
+- Show staff availability.
+- Allow staff to manage appointments.
+- Make the system easy to use.
+- Identify who is responsible for maintaining the system.
 
  **Requirements**
   
@@ -83,17 +83,17 @@ goals
 *requirements Modelling**
 
 *students use case*
--log in.
--view available /upcoming appointments.
--book and Cancel  appointmemets.
+- log in.
+- view available /upcoming appointments.
+- book and Cancel  appointmemets.
 
 *staff ysr case*
--view and manage appointmemets scheduled.
--update availabiliy.
+- view and manage appointmemets scheduled.
+- update availabiliy.
 
 *IT managment*
--manage staff and user accounts.
--oversee the system.
+- manage staff and user accounts.
+- oversee the system.
 
  
 ( page 2 needed for 2 UMLs)
@@ -108,23 +108,23 @@ goals
  
 *prototype*
 1.Login 
--student or staff login.
--username and passwrod.
+- student or staff login.
+- username and passwrod.
 
 2.student side
--view upcoming appointments.
--book a new appointment.
--cancel an appointment.
+- view upcoming appointments.
+- book a new appointment.
+- cancel an appointment.
 
 3.appointment booking
--select staff member
--select date and time slots.
--confirm booking.
+- select staff member
+- select date and time slots.
+- confirm booking.
 
 4.staff side
--view appointments.
--view student booking informantion.
--manage system informantion.
+- view appointments.
+- view student booking informantion.
+- manage system informantion.
 
 *quality requirements*
 
