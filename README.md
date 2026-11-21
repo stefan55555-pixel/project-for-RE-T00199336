@@ -197,6 +197,7 @@ As an administrator, I want to manage staff accounts so that the system contains
 - Gathering feedback from from students and staff.  
 
 *Conclusion*
+
 The College Student Support Appointment System aims to make booking appointments easier for students and staff.
 The system will allow students to view available times, book appointments and manage their bookings. Staff will be able to manage their schedules and administrators will oversee the system.
 The main priorities are preventing double bookings, protecting student information and making the system easy to use.
