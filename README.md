@@ -87,7 +87,7 @@ goals
 - view available /upcoming appointments.
 - book and Cancel  appointmemets.
 
-*staff ysr case*
+*staff use case*
 - view and manage appointmemets scheduled.
 - update availabiliy.
 
@@ -128,9 +128,76 @@ goals
 
 *quality requirements*
 
+|Quality | Description |
+|-----|-----|
+|Usabiliy| The system should be easy for students and staff to use.|
+|Security| Student information should only be accessible to authorised user.|
+|Relibility| The system should save appointments correctly.|
+|Aavailability| The system should be accessible during college operating hours.|
+
 
 *prioritisation and change*
 
-*traceability and validation*
+MoSCoW Prioritisation
 
-**
+|Priority | Requirement |
+|-----|-----|
+|Must Have| Students can book appintments.|
+|Should Have| Students can cancel appointments. |
+|Could Have| Students receive appointment reminders.|
+|Wont Have | Mobile application separate from the website.|
+
+Managing Changes
+- Adding mew appointments tyeps.
+- Changing appointment durations.
+- Adding more staff members.
+- Improving the booking process.
+
+
+*Agile Requirements*
+
+|Sprint | Tasks|
+|----|----|
+|Sprint1| Identify stakeholders and collect requirements.|
+|Sprint2| Design the login page and student dashboard.|
+|Sprint3| Develop the appointment booking system.|
+|Sprint4| Develop staff and administrator features.|
+|Sprint5| Test the system and fix porblems.|
+
+User Stories
+
+Student:
+
+As a student, I want to view my appointment schedule so that I can choose a suitable time.
+
+Staff:
+
+As a staff member, I want to view my appointment schedule so that I can organise my working day.
+
+Administrator:
+
+As an administrator, I want to manage staff accounts so that the system contains correct staff information.
+
+*traceability and validation*
+|Requirement ID|Stakeholder|Verification|
+|-----|-----|-----|
+|FR-01|Student| Check that available time slots are displayed correctly.|
+|FR-02|Student| Test booking an appointment.|
+|FR-03|Student / Staff| Attempt to book an already occupied time slot.|
+|FR-04|Staff| Check that staff availability.|
+|FR-05|Staff| Test updating staff availabiliy.|
+|FR-06|Administrator| Check that authorised administrators can mange.|
+
+*Validation*
+- Testing appointment bookings.
+- Checking that double booking are prevented.
+- Checking that appointment cancellations work.
+- Checking that staff can update their availabiliy.
+- Making sure student information is proteced.
+- Gathering feedback from from students and staff.  
+
+*Conclusion*
+The College Student Support Appointment System aims to make booking appointments easier for students and staff.
+The system will allow students to view available times, book appointments and manage their bookings. Staff will be able to manage their schedules and administrators will oversee the system.
+The main priorities are preventing double bookings, protecting student information and making the system easy to use.
+By following Requirements Engineering methods, the project can be planned, modelled, tested and improved to meet the needs of the college.
