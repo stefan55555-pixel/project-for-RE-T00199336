@@ -64,7 +64,7 @@ goals
  **Requirements**
   
  |Functional | Requirement |
- |-----------------|
+ |--------|---------|
  |FR-1|The system shall allow students to view available appointment time slots |
  |FR-2|The system shall allow students to book an appointment with staff |
  |FR-3|The system shall prevent double bookings for the same staff member and time slot|
@@ -73,7 +73,7 @@ goals
      
 
  |Non-Functional | Requirements |
- |-----------------|
+ |--------|---------|
  |NFR-1|The system should be easy to use and understand |
  |NFR-2|The system should load pages within 3 seconds under normal operating conditions. |
  |NFR-3|The system should be available during college operating hours.|
