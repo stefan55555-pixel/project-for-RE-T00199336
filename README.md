@@ -20,7 +20,8 @@ problem
   
 
 
-| Stakeholder (|) Role |
+
+(| Stakeholder | Role |)
 | --------------------|
 | Student | Books and manages appointments.|
 | Staff | Provides support and manages appointments|
